@@ -14,9 +14,9 @@
 * [專題筆記](#jump3)
 
 ---
-## <span id="jump1">:bookmark_tabs:課程筆記</span>
+# <span id="jump1">:bookmark_tabs:課程筆記</span>
 ---
-## <span id="jump2">:inbox_tray:作業連結</span>
+# <span id="jump2">:inbox_tray:作業連結</span>
 
 Week2:結構化資料CSV
 <br/>[作業1](https://github.com/tobyright6277/LAT_repo/blob/main/Week2/FirstTest-checkpoint.ipynb)
