@@ -18,6 +18,6 @@
 ---
 ### <span id="jump2">:inbox_tray:作業連結</span>
 Week2:結構化資料CSV
-[HW1](https://github.com/tobyright6277/LAT_repo/blob/main/Week2/FirstTest-checkpoint.ipynb)
+<br/>[作業1](https://github.com/tobyright6277/LAT_repo/blob/main/Week2/FirstTest-checkpoint.ipynb)
 ---
 ### <span id="jump3">:chart_with_upwards_trend:專題連結</span>
