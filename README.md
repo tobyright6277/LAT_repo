@@ -14,8 +14,25 @@
 * [專題筆記](#jump3)
 
 ---
-### <span id="jump1">:bookmark_tabs:課程筆記</span>
+## <span id="jump1">:bookmark_tabs:課程筆記</span>
 ---
-### <span id="jump2">:inbox_tray:作業連結</span>
+## <span id="jump2">:inbox_tray:作業連結</span>
+－Week2:[結構化資料CSV練習](https://github.com/tobyright6277/LAT_repo/blob/main/Week2/FirstTest-checkpoint.ipynb)
+<br/>
+<br/>－Week3:[作業一](https://github.com/tobyright6277/LAT_repo/blob/main/HW1/HW1.ipynb)
 ---
-### <span id="jump3">:chart_with_upwards_trend:專題連結</span>
+## <span id="jump3">:chart_with_upwards_trend:專題連結</span>
+
+# 標題
+
+這是一個段落。
+
+## 子標題
+
+- 列表項目1
+- 列表項目2
+
+### 子子標題
+
+1. 編號列表項目1
+2. 編號列表項目2
