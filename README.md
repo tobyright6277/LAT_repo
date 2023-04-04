@@ -20,6 +20,8 @@
 －Week2:[結構化資料CSV練習](https://github.com/tobyright6277/LAT_repo/blob/main/Week2/FirstTest-checkpoint.ipynb)
 <br/>
 <br/>－Week3:[作業一](https://github.com/tobyright6277/LAT_repo/blob/main/HW1/HW1.ipynb)
+<br/>
+<br/>－Week5:[作業二](https://github.com/tobyright6277/LAT_repo/blob/main/HW2/HW2.ipynb)
 ---
 ## <span id="jump3">:chart_with_upwards_trend:專題連結</span>
 
