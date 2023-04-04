@@ -22,6 +22,8 @@
 <br/>－Week3:[作業一](https://github.com/tobyright6277/LAT_repo/blob/main/HW1/HW1.ipynb)
 <br/>
 <br/>－Week5:[作業二](https://github.com/tobyright6277/LAT_repo/blob/main/HW2/HW2.ipynb)
+<br/>
+<br/>－Week6:[作業二](https://github.com/tobyright6277/LAT_repo/blob/main/HW2/HW2.ipynb)
 ---
 ## <span id="jump3">:chart_with_upwards_trend:專題連結</span>
 
