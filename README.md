@@ -1,7 +1,7 @@
 ✨:111-2臺師大教育大數據微學程:sparkles:
 =========================
 ---
-授課教師：蔡芸琤老師
+授課教師：蔡芸琤老師、Ryan Chung老師
 <br/>課名：學習分析工具實務應用
 <br/>姓名：黃靜樺:frog:
 <br/>系級：教育系一年級
@@ -24,6 +24,8 @@
 <br/>－Week5:[作業二](https://github.com/tobyright6277/LAT_repo/blob/main/HW2/HW2.ipynb)
 <br/>
 <br/>－Week6:[作業三](https://github.com/tobyright6277/LAT_repo/blob/main/HW3/TextMining.ipynb)
+<br/>
+<br/>－Week？:[作業四]([https://github.com/tobyright6277/LAT_repo/blob/main/HW3/TextMining.ipynb](https://github.com/tobyright6277/LAT_repo/tree/main/HW4))
 ---
 ## <span id="jump3">:chart_with_upwards_trend:專題連結</span>
 
