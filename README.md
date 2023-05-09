@@ -25,7 +25,7 @@
 <br/>
 <br/>－Week6:[作業三](https://github.com/tobyright6277/LAT_repo/blob/main/HW3/TextMining.ipynb)
 <br/>
-<br/>－Week11:[作業四]([https://github.com/tobyright6277/LAT_repo/blob/main/HW3/TextMining.ipynb](https://github.com/tobyright6277/LAT_repo/tree/main/HW4))
+<br/>－Week11:[作業四](https://github.com/tobyright6277/LAT_repo/blob/main/HW3/TextMining.ipynb](https://github.com/tobyright6277/LAT_repo/tree/main/HW4)
 ---
 ## <span id="jump3">:chart_with_upwards_trend:專題連結</span>
 
