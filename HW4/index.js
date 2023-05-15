@@ -1,6 +1,7 @@
 'use strict';
 const line = require('@line/bot-sdk'),
       express = require('express'),
+      axios = require('axios'),
       configGet = require('config');
 const {TextAnalyticsClient,AzureKeyCredential} = require("@azure/ai-text-analytics");
 
@@ -31,9 +32,37 @@ async function MS_TextSentimentAnalysis(thisEvent){
   documents.push(thisEvent.message.text);
   // documents.push("我覺得櫃檯人員很親切");
   // documents.push("我覺得食物不好吃");
-  const results = await analyticsClient.analyzeSentiment(documents);
+  const results = await analyticsClient.analyzeSentiment(documents,'zh-Hant',{
+    includeOpinionMining:true
+  });
   console.log("[results] ", JSON.stringify(results));
+  //Save to JSON Server
+  let newData = {
+    "sentiment":results[0].sentiment,
+    "confidenceScore":results[0].confidenceScores[results[0].sentiment],
+    "opinionText":""
+  };
 
+  if(results[0].sentences[0].opinions.length!=0){
+    newData.opinionText = results[0].sentences[0].opinions[0].target.text;
+  }
+
+  let axios_add_data = {
+    method:"post",
+    url:"https://toby-json-server-6277.azurewebsites.net/reviews",
+    headers:{
+      "content-type":"application/json"
+    },
+    data:newData
+  };
+  
+  axios(axios_add_data)
+  .then(function(response){
+    console.log(JSON.stringify(response.data));
+  })
+  .catch(function(){
+    console.log("Error!!");
+  });
 
   const echo = {
     type:'text',
