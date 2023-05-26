@@ -34,10 +34,6 @@
 ---
 ## <span id="jump3">:chart_with_upwards_trend:專題連結</span>
 
-# 標題
-
-這是一個段落。
-
 ## 子標題
 
 - 列表項目1
